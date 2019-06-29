@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.graalvm.compiler:compiler:19.0.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.graalvm.compiler/compiler/jars/compiler-19.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.graalvm.compiler/compiler/srcs/compiler-19.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

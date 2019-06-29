@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <parameters>
+      <parameter value="-Ypartial-unification" />
+    </parameters>
+    <profile name="sbt 1" modules="untitledTaskKey(This _ This _ This _ javaOptions)" />
+    <profile name="sbt 2" modules="untitled">
+      <parameters>
+        <parameter value="-Xfatal-warnings" />
+        <parameter value="-Ypartial-unification" />
+      </parameters>
+    </profile>
+  </component>
+</project>
